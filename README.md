@@ -37,6 +37,12 @@ If you want to add a component to your drawing, simply copy the drawing from the
 
 The layers are an important aspect of the symbols because they allow the user to hide and show important pieces of information. It is recommended that all objects in all layers be copied over to the final circuit; one can hide or un-hide certain layers to keep unwanted objects out of the final drawing.
 
+### About anchors
+
+Since these symbols are graphic tools first and foremost, there needs to be some graphical convention as to what is a symbol "center", so that the concepts of alignment and linkage can be understood. The anchors (red crosses in 0.5mm traces) are just that, conventions to what are the symbols "centers" as graphical reference points. It is highly recommended to keep the anchors fixed in their position relative to their symbols.
+
+In most symbols the anchors are conveniently placed in notable points like geometrical centers. Nevertheless, all anchors are snapped to the 1mm grid and should be kept like that.
+
 ## Licensing
 
 This library is licensed under a slight modified BSD "three clause" license, which means it is free to use even commercially (credits are appreciated, however), but redistributions must follow the copyleft principle.
