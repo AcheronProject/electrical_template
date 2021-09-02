@@ -4,7 +4,7 @@
 <svg
    width="13.976377in"
    height="7.0866141in"
-   viewBox="0 0 354.99999 180"
+   viewBox="0 0 355.00001 180"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
@@ -49,7 +49,7 @@
        spacingx="1"
        spacingy="1"
        originx="-190.00001"
-       originy="-510.00002" />
+       originy="-510.00003" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -496,11 +496,11 @@
        y="0"><tspan
          x="0"
          y="-6.7832267"
-         id="tspan1973"><tspan
+         id="tspan438"><tspan
            dx="0 2.9653304 2.9653304 2.6666551 2.9653301 2.9653301"
-           id="tspan1969">10k10k</tspan><tspan
+           id="tspan434">10k10k</tspan><tspan
            dx="2.6666555"
-           id="tspan1971">Ω</tspan></tspan></text>
+           id="tspan436">Ω</tspan></tspan></text>
     <g
        id="g4767"
        transform="rotate(15,31.807832,74.298695)" />
@@ -539,9 +539,9 @@
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1977">V<tspan
+           id="tspan442">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1975">CC</tspan></tspan></text>
+   id="tspan440">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 218.56083,596.37971 h -4.99999"
@@ -647,9 +647,9 @@
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1981">V<tspan
+           id="tspan446">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1979">CC</tspan></tspan></text>
+   id="tspan444">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 338.56083,596.37971 h -4.99999"
@@ -755,9 +755,9 @@
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1985">V<tspan
+           id="tspan450">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1983">CC</tspan></tspan></text>
+   id="tspan448">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 458.56083,596.37971 h -4.99999"
@@ -863,9 +863,9 @@
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1989">V<tspan
+           id="tspan454">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1987">CC</tspan></tspan></text>
+   id="tspan452">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 218.56083,696.37971 h -4.99999"
@@ -971,9 +971,9 @@
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1993">V<tspan
+           id="tspan458">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1991">CC</tspan></tspan></text>
+   id="tspan456">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 338.56083,696.37971 h -4.99999"
@@ -1079,9 +1079,9 @@
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1997">V<tspan
+           id="tspan462">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1995">CC</tspan></tspan></text>
+   id="tspan460">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 458.56083,696.37971 h -4.99999"
