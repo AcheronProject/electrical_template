@@ -6,6 +6,12 @@
 
 Electrical Templates is a symbol library used to make good-looking and uniformized electrical circuit schematics in a vectorized software. The original source is from Inkscape and all sources are developed in Inkscape SVG format which should be natively supported by most vector editors like Illustrator, CorelDRAW *et cetera*.
 
+The main purpose of these symbols are to be freely available in a vectorized format so they can be modified, adapted, scaled and documented in any way needed. The tool used to draw and edit them is [Inkscape](https://inkscape.org/), a free and open-source vector editor.
+
+## Uses
+
+This library was first intended for the writing of circuit and hardware design documentation, which needs thorough and detailed drawing of the schematics involved. The initial versions were used in the [Acheron project documentation, aka Acheron Docs](http://acheronproject.com) . The symbols can also be used in software documentation, specially embedded firmware, scientific papers and articles.
+
 ## Standards
 
 This symbol library follows the [IEEE/ANSI standard 315-1975](https://standards.ieee.org/standard/315-1975.html) for its references as to how to draw the symbols.
@@ -47,4 +53,4 @@ In most symbols the anchors are conveniently placed in notable points like geome
 
 ## Licensing
 
-This library is licensed under a slight modified BSD "three clause" license, which means it is free to use even commercially (credits are appreciated, however), but redistributions must follow the copyleft principle.
+This library is licensed under a slightly modified BSD "three clause" license, which means it is free to use even commercially (credits are appreciated, however), but redistributions must follow the copyleft principle.
