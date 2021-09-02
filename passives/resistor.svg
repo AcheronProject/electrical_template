@@ -24,12 +24,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1"
-     inkscape:cx="336.5"
-     inkscape:cy="30.5"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="312"
+     inkscape:cx="-85.5"
+     inkscape:cy="34.5"
+     inkscape:window-width="1024"
+     inkscape:window-height="1211"
+     inkscape:window-x="3840"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-nodes="false"
@@ -234,7 +234,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(14.939166,-64.879718)"
-     sodipodi:insensitive="true"
      style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -258,11 +257,11 @@
        y="0"><tspan
          x="0"
          y="-6.7832267"
-         id="tspan1175"><tspan
+         id="tspan233"><tspan
            dx="0 2.9653304 2.9653304 2.6666551 2.9653301 2.9653301"
-           id="tspan1171">10k10k</tspan><tspan
+           id="tspan229">10k10k</tspan><tspan
            dx="2.6666555"
-           id="tspan1173">Ω</tspan></tspan></text>
+           id="tspan231">Ω</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -138.93917,59.879718 h 4 l 1,-4 2,8 2,-8 2,8 2,-8 2,8 1,-4 h 4"
@@ -518,7 +517,7 @@
        style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15180);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-120.94531"
          y="12.113258"
-         id="tspan1177">10kΩ</tspan></text>
+         id="tspan235">10kΩ</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.0583333,0,0,1.0583333,-20.21166,-15.793152)"
@@ -528,7 +527,7 @@
        y="0"><tspan
          x="20.16371"
          y="-14.343774"
-         id="tspan1179">10kΩ</tspan></text>
+         id="tspan237">10kΩ</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.0583333,0,0,1.0583333,7.1287256,-27.793508)"
@@ -536,7 +535,7 @@
        style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect62399);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-120.94531"
          y="12.113258"
-         id="tspan1181">10kΩ</tspan></text>
+         id="tspan239">10kΩ</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -551,7 +550,7 @@
        style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11376);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-120.94531"
          y="12.113258"
-         id="tspan1183">R1</tspan></text>
+         id="tspan241">R1</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.0583333,0,0,1.0583333,2.326297,-21.760708)"
@@ -561,7 +560,7 @@
        y="0"><tspan
          x="2.4076151"
          y="-14.343774"
-         id="tspan1185">P1</tspan></text>
+         id="tspan243">P1</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.0583333,0,0,1.0583333,10.721411,-33.761069)"
@@ -569,6 +568,6 @@
        style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect62397);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-120.94531"
          y="12.113258"
-         id="tspan1187">R1</tspan></text>
+         id="tspan245">R1</tspan></text>
   </g>
 </svg>

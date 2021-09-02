@@ -31,9 +31,9 @@ In order to ensure scalability and reproductibility, certain aspects are enforce
 	- **Anchors** for graphics anchors such as circle centers
 	- **Drawings** for the drawings themselves
 
-![example pnp 1](./readme/bjt_example_1.png)
+![Grid example](./readme/bjt_example_1.png)
 
-![example pnp 2](./readme/bjt_example_2.png)
+![Grid example zoom](./readme/bjt_example_2.png)
 
 In order to keep the grid fixed, the page size is set to A4 size and **should not be changed**, as doing so will move the grid and mess with the formatting of the symbols.
 
@@ -50,6 +50,12 @@ The layers are an important aspect of the symbols because they allow the user to
 Since these symbols are graphic tools first and foremost, there needs to be some graphical convention as to what is a symbol "center", so that the concepts of alignment and linkage can be understood. The anchors (red crosses in 0.5mm traces) are just that, conventions to what are the symbols "centers" as graphical reference points. It is highly recommended to keep the anchors fixed in their position relative to their symbols.
 
 In most symbols the anchors are conveniently placed in notable points like geometrical centers. Nevertheless, all anchors are snapped to the 1mm grid and should be kept like that.
+
+## Background colors
+
+Some might find it easier to differentiate between parts of the circuit, or easier to visualize the circuit, if certain components are filled with a background color.
+
+![Background colors example](amplifier_background_example.png)
 
 ## Licensing
 
