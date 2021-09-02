@@ -20,12 +20,14 @@ In order to ensure scalability and reproductibility, certain aspects are enforce
 - In order for the images to be compatible throughout all systems, the font used is *sans-serif* which is an open-source adaptation of Helvetica;
 - Line thickess was kept as 1mm throughout symbols;
 - All documents have four layers:
- - **Values** for values (in the case of passives, their nominal values like 10k Ohm or 100nF)
- - **Designators** for the designators (R1, C3, U3 etc)
- - **Anchors** for graphics anchors such as circle centers
- - **Drawings** for the drawings themselves
+	- **Values** for values (in the case of passives, their nominal values like 10k Ohm or 100nF)
+	- **Designators** for the designators (R1, C3, U3 etc)
+	- **Anchors** for graphics anchors such as circle centers
+	- **Drawings** for the drawings themselves
 
-![example pnp](./readme/bjt_example.png)
+![example pnp](./readme/bjt_example1.png)
+
+![example pnp](./readme/bjt_example2.png)
 
 In order to keep the grid fixed, the page size is set to A4 size and **should not be changed**, as doing so will move the grid and mess with the formatting of the symbols.
 
