@@ -4,13 +4,25 @@
   <img src="https://raw.githubusercontent.com/Gondolindrim/file_hosting/main/acheron_graphics/acheron_long.svg" width="600" align="middle"/>
 </figure>
 
+## Introduction
+
 Electrical Templates is a symbol library used to make good-looking and uniformized electrical circuit schematics in a vectorized software. The original source is from Inkscape and all sources are developed in Inkscape SVG format which should be natively supported by most vector editors like Illustrator, CorelDRAW *et cetera*.
 
 The main purpose of these symbols are to be freely available in a vectorized format so they can be modified, adapted, scaled and documented in any way needed. The tool used to draw and edit them is [Inkscape](https://inkscape.org/), a free and open-source vector editor.
 
+## General information
+
+- GitHub repository: [click here](https://github.com/AcheronProject/electrical_template)
+- Status: actively maintained, under construction but usable
+- Licensing: [modified BSD-3](https://github.com/AcheronProject/electrical_template/blob/main/LICENSE.md)
+
 ## Uses
 
-This library was first intended for the writing of circuit and hardware design documentation, which needs thorough and detailed drawing of the schematics involved. The initial versions were used in the [Acheron project documentation, aka Acheron Docs](http://acheronproject.com) . The symbols can also be used in software documentation, specially embedded firmware, scientific papers and articles.
+This library was first intended for the writing of circuit and hardware design documentation, which needs thorough and detailed drawing of the schematics involved. The initial versions were used in the [Acheron project documentation, aka Acheron Docs](http://acheronproject.com). As such, the library can be used whenever detailed circuit schematic characteristics are needed:
+
+- Software documentation, specially embedded firmware;
+- Scientific papers and articles;
+- Learning material, courseware
 
 ## Standards
 
@@ -26,10 +38,10 @@ In order to ensure scalability and reproductibility, certain aspects are enforce
 - In order for the images to be compatible throughout all systems, the font used is *sans-serif* which is an open-source adaptation of Helvetica;
 - Line thickess was kept as 1mm throughout symbols;
 - All documents have four layers:
-	- **Values** for values (in the case of passives, their nominal values like 10k Ohm or 100nF)
-	- **Designators** for the designators (R1, C3, U3 etc)
-	- **Anchors** for graphics anchors such as circle centers
-	- **Drawings** for the drawings themselves
+        - **Values** for values (in the case of passives, their nominal values like 10k Ohm or 100nF)
+        - **Designators** for the designators (R1, C3, U3 etc)
+        - **Anchors** for graphics anchors such as circle centers
+        - **Drawings** for the drawings themselves
 
 ![Grid example](./readme/bjt_example_1.png)
 
@@ -43,7 +55,7 @@ If you want to add a component to your drawing, simply copy the drawing from the
 
 ### How to deal with the layers
 
-The layers are an important aspect of the symbols because they allow the user to hide and show important pieces of information. It is recommended that all objects in all layers be copied over to the final circuit; one can hide or un-hide certain layers to keep unwanted objects out of the final drawing.
+The layers are an important aspect of the symbols because they allow the user to hide and show important pieces of information like anchors, centers, image documentation. None of those will likely make it into the final image, but it is nonetheless important and useful to have them there for maintainability of the images later on. It is recommended that all objects in all layers be copied over to the final circuit; one can hide or un-hide certain layers to keep unwanted objects out of the final drawing.
 
 ### About anchors
 
@@ -67,6 +79,8 @@ The colors used should be fairly light and translucent, so as not to diverge att
 The light and translucent nature of such colors is very well pictured in the image below, where they are used in an open-drain-output comparator which needs a transistor symbol internal to the amplifier symbol. Due to the light colors, it is easy to see the transistor.
 
 ![Background colors example](./readme/example_background.svg)
+
+Additionally, for proper differentiation between circuits or functions, one might want to avoid using two close colors in the same schematic, like the light and dark blue colors or the purple and pink.
 
 ## Licensing
 
