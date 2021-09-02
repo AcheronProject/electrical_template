@@ -20,12 +20,12 @@
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.5"
-     inkscape:cx="885"
-     inkscape:cy="339"
+     inkscape:zoom="1"
+     inkscape:cx="757.5"
+     inkscape:cy="354.5"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -485,11 +485,11 @@
        y="0"><tspan
          x="0"
          y="-6.7832267"
-         id="tspan1293"><tspan
+         id="tspan918"><tspan
            dx="0 2.9653304 2.9653304 2.6666551 2.9653301 2.9653301"
-           id="tspan1289">10k10k</tspan><tspan
+           id="tspan914">10k10k</tspan><tspan
            dx="2.6666555"
-           id="tspan1291">Ω</tspan></tspan></text>
+           id="tspan916">Ω</tspan></tspan></text>
     <g
        id="g4767"
        transform="rotate(15,31.807832,74.298695)" />
@@ -512,9 +512,9 @@
        y="0"><tspan
          x="-259.51086"
          y="-797.79502"
-         id="tspan1297">V<tspan
+         id="tspan922">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1295">CC</tspan></tspan></text>
+   id="tspan920">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 198.56083,544.87972 h -4.99999"
@@ -603,9 +603,9 @@
        y="0"><tspan
          x="-259.51086"
          y="-797.79502"
-         id="tspan1301">V<tspan
+         id="tspan926">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1299">CC</tspan></tspan></text>
+   id="tspan924">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 318.56083,544.87972 h -4.99999"
@@ -694,9 +694,9 @@
        y="0"><tspan
          x="-259.51086"
          y="-797.79502"
-         id="tspan1305">V<tspan
+         id="tspan930">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1303">CC</tspan></tspan></text>
+   id="tspan928">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 438.56083,544.87972 h -4.99999"
@@ -785,9 +785,9 @@
        y="0"><tspan
          x="-259.51086"
          y="-797.79502"
-         id="tspan1309">V<tspan
+         id="tspan934">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1307">CC</tspan></tspan></text>
+   id="tspan932">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 198.56083,644.87972 h -4.99999"
@@ -876,9 +876,9 @@
        y="0"><tspan
          x="-259.51086"
          y="-797.79502"
-         id="tspan1313">V<tspan
+         id="tspan938">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1311">CC</tspan></tspan></text>
+   id="tspan936">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 318.56083,644.87972 h -4.99999"
@@ -967,9 +967,9 @@
        y="0"><tspan
          x="-259.51086"
          y="-797.79502"
-         id="tspan1317">V<tspan
+         id="tspan942">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1315">CC</tspan></tspan></text>
+   id="tspan940">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 438.56083,644.87972 h -4.99999"
