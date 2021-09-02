@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="13.92126in"
-   height="7.0607586in"
-   viewBox="0 0 353.6 179.34327"
+   width="13.976377in"
+   height="7.0866141in"
+   viewBox="0 0 354.99999 180"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.70710678"
-     inkscape:cx="826.60783"
-     inkscape:cy="464.56916"
+     inkscape:cx="755.89715"
+     inkscape:cy="270.8219"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -48,8 +48,8 @@
        units="mm"
        spacingx="1"
        spacingy="1"
-       originx="-171.4"
-       originy="-458.65674" />
+       originx="-190.00001"
+       originy="-510.00002" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -469,9 +469,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="White background">
+     inkscape:label="White background"
+     style="display:inline"
+     transform="translate(-18.6,-51.343262)">
     <rect
-       style="display:inline;fill:#fffff7;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
        id="rect237"
        width="355"
        height="180"
@@ -483,7 +485,7 @@
      inkscape:label="Drawings"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-156.46083,-523.53645)"
+     transform="translate(-175.06083,-574.87971)"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -494,11 +496,11 @@
        y="0"><tspan
          x="0"
          y="-6.7832267"
-         id="tspan1895"><tspan
+         id="tspan1973"><tspan
            dx="0 2.9653304 2.9653304 2.6666551 2.9653301 2.9653301"
-           id="tspan1891">10k10k</tspan><tspan
+           id="tspan1969">10k10k</tspan><tspan
            dx="2.6666555"
-           id="tspan1893">Ω</tspan></tspan></text>
+           id="tspan1971">Ω</tspan></tspan></text>
     <g
        id="g4767"
        transform="rotate(15,31.807832,74.298695)" />
@@ -508,7 +510,7 @@
      id="layer2"
      inkscape:label="Anchors"
      style="display:inline"
-     transform="translate(-171.4,-458.65673)">
+     transform="translate(-190,-509.99999)">
     <g
        id="g1570">
       <path
@@ -532,14 +534,14 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,314.99991,724.58325)"
          id="text118629"
-         style="display:inline;font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect118677)"
+         style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect118677);display:inline"
          x="10.105311"
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1899">V<tspan
+           id="tspan1977">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1897">CC</tspan></tspan></text>
+   id="tspan1975">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 218.56083,596.37971 h -4.99999"
@@ -640,14 +642,14 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,434.99991,724.58325)"
          id="text124561"
-         style="display:inline;font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect124599)"
+         style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect124599);display:inline"
          x="10.105311"
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1903">V<tspan
+           id="tspan1981">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1901">CC</tspan></tspan></text>
+   id="tspan1979">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 338.56083,596.37971 h -4.99999"
@@ -748,14 +750,14 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,554.9999,724.58325)"
          id="text124729"
-         style="display:inline;font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect124763)"
+         style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect124763);display:inline"
          x="10.105311"
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1907">V<tspan
+           id="tspan1985">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1905">CC</tspan></tspan></text>
+   id="tspan1983">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 458.56083,596.37971 h -4.99999"
@@ -856,14 +858,14 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,314.99991,824.58326)"
          id="text125225"
-         style="display:inline;font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect125351)"
+         style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect125351);display:inline"
          x="10.105311"
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1911">V<tspan
+           id="tspan1989">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1909">CC</tspan></tspan></text>
+   id="tspan1987">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 218.56083,696.37971 h -4.99999"
@@ -964,14 +966,14 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,434.99991,824.58326)"
          id="text125265"
-         style="display:inline;font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect125353)"
+         style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect125353);display:inline"
          x="10.105311"
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1915">V<tspan
+           id="tspan1993">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1913">CC</tspan></tspan></text>
+   id="tspan1991">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 338.56083,696.37971 h -4.99999"
@@ -1072,14 +1074,14 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,554.9999,824.58326)"
          id="text125305"
-         style="display:inline;font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect125355)"
+         style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect125355);display:inline"
          x="10.105311"
          y="0"><tspan
            x="-259.51086"
            y="-797.79502"
-           id="tspan1919">V<tspan
+           id="tspan1997">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan1917">CC</tspan></tspan></text>
+   id="tspan1995">CC</tspan></tspan></text>
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 458.56083,696.37971 h -4.99999"
@@ -1226,17 +1228,17 @@
      id="layer3"
      inkscape:label="Documentation"
      style="display:inline"
-     transform="translate(-171.4,-458.65673)" />
+     transform="translate(-190,-509.99999)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Values"
      style="display:inline"
-     transform="translate(-171.4,-458.65673)" />
+     transform="translate(-190,-509.99999)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Designators"
      style="display:inline"
-     transform="translate(-171.4,-458.65673)" />
+     transform="translate(-190,-509.99999)" />
 </svg>
