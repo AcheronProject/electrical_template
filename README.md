@@ -55,6 +55,17 @@ In most symbols the anchors are conveniently placed in notable points like geome
 
 Some might find it easier to differentiate between parts of the circuit, or easier to visualize the circuit, if certain components are filled with a background color.
 
+The colors used should be fairly light and translucent, so as not to diverge attention from the circuit itself. In ``./readme/example_background.svg`` there can be found several examples of such colors, used for this documentation, called "electric colors". These electric colors are given in RGBA or HEX codes as:
+
+- Electric light blue: (0,180,250,40) or 0x00b4fa66;
+- Electric dark blue: (0,0,250,50) or 0x0000ff80;
+- Electric purple: (150,0,250,40) or 0x9600fa66;
+- Electric pink: (250,0,100,50) or 0xfa006480;
+- Electric green: (0,200,0,40) or 0x00x800066;
+- Electric yellow: (250,180,0,50) or 0xfab40080.
+
+The light and translucent nature of such colors is very well pictured in the image below, where they are used in an open-drain-output comparator which needs a transistor symbol internal to the amplifier symbol. Due to the light colors, it is easy to see the transistor.
+
 ![Background colors example](./readme/example_background.svg)
 
 ## Licensing
