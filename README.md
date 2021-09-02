@@ -8,7 +8,10 @@ Electrical Templates is a symbol library used to make good-looking and uniformiz
 
 ## Development conventions
 
-The symbols are drawn in a milimmeter grid and all points should follow the grid; this ensures scalability and reproductibility.
+In order to ensure scalability and reproductibility, certain aspects are enforced and uniformized throughout the symbols:
+
+- Points use a milimmeter grid and all points should snap to the grid;
+- In order for the images to be compatible throughout all systems, the font used is *sans-serif* which is an open-source adaptation of Helvetica;
 
 ![example pnp](./readme/bjt_example.png)
 

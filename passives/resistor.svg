@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297.00001"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.40001"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="23.025165"
-     inkscape:cy="30.449786"
+     inkscape:zoom="5.656854"
+     inkscape:cx="21.655146"
+     inkscape:cy="46.934215"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -38,7 +38,9 @@
      inkscape:snap-grids="true"
      inkscape:snap-center="true"
      showborder="false"
-     inkscape:object-paths="true">
+     inkscape:object-paths="true"
+     inkscape:snap-text-baseline="false"
+     units="in">
     <inkscape:grid
        type="xygrid"
        id="grid1145"
@@ -54,17 +56,17 @@
        x="18.897638"
        y="-18.897638"
        width="15.11811"
-       height="7.5590552"
+       height="7.5590553"
        id="rect71766" />
     <rect
        x="0"
        y="-18.897638"
        width="11.338583"
-       height="7.5590551"
+       height="7.5590553"
        id="rect48556" />
     <rect
        x="-120.94488"
-       y="7.5590551"
+       y="7.5590553"
        width="124.72441"
        height="132.28346"
        id="rect11376" />
@@ -156,19 +158,19 @@
        id="rect31691" />
     <rect
        x="-120.94488"
-       y="7.5590551"
+       y="7.5590553"
        width="124.72441"
        height="132.28346"
        id="rect15180" />
     <rect
        x="-120.94488"
-       y="7.5590551"
+       y="7.5590553"
        width="16.326225"
        height="12.057702"
        id="rect18722" />
     <rect
        x="-120.94488"
-       y="7.5590551"
+       y="7.5590553"
        width="124.72441"
        height="132.28346"
        id="rect18724" />
@@ -176,14 +178,26 @@
        x="0"
        y="-18.897638"
        width="11.338583"
-       height="7.5590551"
+       height="7.5590553"
        id="rect61888" />
     <rect
        x="0"
        y="-18.897638"
        width="11.338583"
-       height="7.5590551"
+       height="7.5590553"
        id="rect68756" />
+    <rect
+       x="-120.94488"
+       y="7.5590553"
+       width="124.72441"
+       height="132.28346"
+       id="rect62397" />
+    <rect
+       x="-120.94488"
+       y="7.5590553"
+       width="124.72441"
+       height="132.28346"
+       id="rect62399" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -251,7 +265,7 @@
        style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11376);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-120.94531"
          y="12.113258"
-         id="tspan78308">R1</tspan></text>
+         id="tspan62529">R1</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,7.3429224,69.181341)"
@@ -259,7 +273,7 @@
        style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15180);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-120.94531"
          y="12.113258"
-         id="tspan78310">10kΩ</tspan></text>
+         id="tspan62531">10kΩ</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-8.8575918,70.689541)"
@@ -269,7 +283,7 @@
        y="0"><tspan
          x="2.4076151"
          y="-14.343774"
-         id="tspan78312">P1</tspan></text>
+         id="tspan62533">P1</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-8.3572302,72.189191)"
@@ -279,11 +293,11 @@
        y="0"><tspan
          x="0"
          y="-6.7832267"
-         id="tspan78318"><tspan
+         id="tspan62539"><tspan
            dx="0 2.9653304 2.9653304 2.6666551 2.9653301 2.9653301"
-           id="tspan78314">10k10k</tspan><tspan
+           id="tspan62535">10k10k</tspan><tspan
            dx="2.6666555"
-           id="tspan78316">Ω</tspan></tspan></text>
+           id="tspan62537">Ω</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-14.492081,72.18143)"
@@ -293,6 +307,27 @@
        y="0"><tspan
          x="20.16371"
          y="-14.343774"
-         id="tspan78320">10kΩ</tspan></text>
+         id="tspan62541">10kΩ</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -39.939166,74.879718 h 1 l 0.25,-1 0.5,2 0.5,-2 0.5,2 0.5,-2 0.5,2 0.25,-1 h 1"
+       id="path58670"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.2588144,67.689451)"
+       id="text62391"
+       style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect62397);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-120.94531"
+         y="12.113258"
+         id="tspan62543">R1</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.1569857,69.181341)"
+       id="text62395"
+       style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect62399);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-120.94531"
+         y="12.113258"
+         id="tspan62545">10kΩ</tspan></text>
   </g>
 </svg>
