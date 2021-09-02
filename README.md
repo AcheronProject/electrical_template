@@ -55,7 +55,7 @@ In most symbols the anchors are conveniently placed in notable points like geome
 
 Some might find it easier to differentiate between parts of the circuit, or easier to visualize the circuit, if certain components are filled with a background color.
 
-![Background colors example](./readme/amplifier_background.svg)
+![Background colors example](./readme/example_background.svg)
 
 ## Licensing
 
