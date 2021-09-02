@@ -25,9 +25,9 @@ In order to ensure scalability and reproductibility, certain aspects are enforce
 	- **Anchors** for graphics anchors such as circle centers
 	- **Drawings** for the drawings themselves
 
-![example pnp](./readme/bjt_example1.png)
+![example pnp 1](./readme/bjt_example_1.png)
 
-![example pnp](./readme/bjt_example2.png)
+![example pnp 2](./readme/bjt_example_2.png)
 
 In order to keep the grid fixed, the page size is set to A4 size and **should not be changed**, as doing so will move the grid and mess with the formatting of the symbols.
 
