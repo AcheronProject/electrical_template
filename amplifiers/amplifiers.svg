@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.60401374"
-     inkscape:cx="1187.8869"
-     inkscape:cy="2034.7219"
+     inkscape:zoom="0.28224843"
+     inkscape:cx="-641.27904"
+     inkscape:cy="1211.6985"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -488,11 +488,11 @@
        y="0"><tspan
          x="0"
          y="-6.7832267"
-         id="tspan51"><tspan
+         id="tspan3"><tspan
            dx="0 2.9653304 2.9653304 2.6666656 2.9653301 2.9653301"
-           id="tspan49">10k10k</tspan><tspan
+           id="tspan1">10k10k</tspan><tspan
            dx="2.666666"
-           id="tspan50">Ω</tspan></tspan></text>
+           id="tspan2">Ω</tspan></tspan></text>
     <g
        id="g4767"
        transform="rotate(15,31.807832,74.298695)" />
@@ -577,9 +577,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan53">V<tspan
+         id="tspan5">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan52">CC</tspan></tspan></text>
+   id="tspan4">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -79.939165,548.87972 v -14"
@@ -598,9 +598,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan55">V<tspan
+         id="tspan7">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan54">CC</tspan></tspan></text>
+   id="tspan6">CC</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-14.939258,115.96298)"
@@ -610,9 +610,9 @@
        y="0"><tspan
          x="-259.58412"
          y="-797.79502"
-         id="tspan57">V<tspan
+         id="tspan9">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan56">DD</tspan></tspan></text>
+   id="tspan8">DD</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-14.939259,810.96298)"
@@ -622,9 +622,9 @@
        y="0"><tspan
          x="-259.58412"
          y="-797.79502"
-         id="tspan59">V<tspan
+         id="tspan11">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan58">DD</tspan></tspan></text>
+   id="tspan10">DD</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -99.939164,-255.12028 v 40 l 39.999999,-20 z"
@@ -1347,9 +1347,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan61">V<tspan
+         id="tspan13">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan60">CC</tspan></tspan></text>
+   id="tspan12">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 198.56083,544.87972 h -4.99999"
@@ -1438,9 +1438,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan63">V<tspan
+         id="tspan15">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan62">CC</tspan></tspan></text>
+   id="tspan14">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 318.56083,544.87972 h -4.99999"
@@ -1529,9 +1529,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan65">V<tspan
+         id="tspan17">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan64">CC</tspan></tspan></text>
+   id="tspan16">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 438.56083,544.87972 h -4.99999"
@@ -1620,9 +1620,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan67">V<tspan
+         id="tspan19">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan66">CC</tspan></tspan></text>
+   id="tspan18">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 198.56083,644.87972 h -4.99999"
@@ -1711,9 +1711,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan69">V<tspan
+         id="tspan21">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan68">CC</tspan></tspan></text>
+   id="tspan20">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 318.56083,644.87972 h -4.99999"
@@ -1802,9 +1802,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan71">V<tspan
+         id="tspan23">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan70">CC</tspan></tspan></text>
+   id="tspan22">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 438.56083,644.87972 h -4.99999"
@@ -1893,9 +1893,9 @@
        y="0"><tspan
          x="-259.51088"
          y="-797.79502"
-         id="tspan73">V<tspan
+         id="tspan25">V<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan72">CC</tspan></tspan></text>
+   id="tspan24">CC</tspan></tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -101.43917,864.87972 h -4.99999"
@@ -2030,7 +2030,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Anchors"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#fc0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -67,-245 h 4"
@@ -2366,7 +2366,7 @@
        y="0"><tspan
          x="-538.48648"
          y="-1195.7852"
-         id="tspan74">Schmitt-trigger</tspan></text>
+         id="tspan26">Schmitt-trigger</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.000214,71.384835)"
@@ -2376,7 +2376,7 @@
        y="0"><tspan
          x="-642.43845"
          y="-1195.7852"
-         id="tspan75">Common differential amplifier</tspan></text>
+         id="tspan27">Common differential amplifier</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,160.0001,41.384835)"
@@ -2386,7 +2386,7 @@
        y="0"><tspan
          x="-652.48312"
          y="-1195.7852"
-         id="tspan76">With double output</tspan></text>
+         id="tspan28">With double output</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.000214,131.38484)"
@@ -2396,7 +2396,7 @@
        y="0"><tspan
          x="-689.91046"
          y="-1195.7852"
-         id="tspan77">Differential amplifier with power rails</tspan></text>
+         id="tspan29">Differential amplifier with power rails</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.000214,191.38484)"
@@ -2406,7 +2406,7 @@
        y="0"><tspan
          x="-581.94247"
          y="-1195.7852"
-         id="tspan78">Operational amplifier</tspan></text>
+         id="tspan30">Operational amplifier</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-29.999834,251.38484)"
@@ -2416,11 +2416,11 @@
        y="0"><tspan
          x="-599.23788"
          y="-1195.7852"
-         id="tspan79">Norton amplifier or Operational Transconductance
+         id="tspan31">Norton amplifier or Operational Transconductance
 </tspan><tspan
          x="-353.52591"
          y="-1175.7852"
-         id="tspan80">Amplifier (OTA)</tspan></text>
+         id="tspan32">Amplifier (OTA)</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-34.999834,316.38484)"
@@ -2430,7 +2430,7 @@
        y="0"><tspan
          x="-276.34192"
          y="-1195.7852"
-         id="tspan81">OTA</tspan></text>
+         id="tspan33">OTA</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.000214,382.49185)"
@@ -2440,7 +2440,7 @@
        y="0"><tspan
          x="-558.88647"
          y="-1195.7852"
-         id="tspan82">Isolation amplifier</tspan></text>
+         id="tspan34">Isolation amplifier</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.000214,446.38484)"
@@ -2450,7 +2450,7 @@
        y="0"><tspan
          x="-625.01443"
          y="-1195.7852"
-         id="tspan83">With protruded  power pins</tspan></text>
+         id="tspan35">With protruded  power pins</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,200.0001,351.38484)"
@@ -2460,9 +2460,9 @@
        y="0"><tspan
          x="-676.29913"
          y="-1195.7852"
-         id="tspan85"><tspan
+         id="tspan37"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan84">With shielding or isolation</tspan></tspan></text>
+           id="tspan36">With shielding or isolation</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.000214,531.38484)"
@@ -2472,7 +2472,7 @@
        y="0"><tspan
          x="-625.28644"
          y="-1195.7852"
-         id="tspan86">With power and signal pins</tspan></text>
+         id="tspan38">With power and signal pins</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.000214,612.46645)"
@@ -2482,7 +2482,7 @@
        y="0"><tspan
          x="-581.54248"
          y="-1195.7852"
-         id="tspan87">With isolaiton arrows</tspan></text>
+         id="tspan39">With isolaiton arrows</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-3.5265087,713.3792)"
@@ -2492,7 +2492,7 @@
        y="0"><tspan
          x="-536.51843"
          y="-1195.7852"
-         id="tspan88">Complete pins</tspan></text>
+         id="tspan40">Complete pins</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-12.999786,816.38484)"
@@ -2502,11 +2502,11 @@
        y="0"><tspan
          x="-544.53448"
          y="-1195.7852"
-         id="tspan89">Instrumentation
+         id="tspan41">Instrumentation
 </tspan><tspan
          x="-495.11047"
          y="-1175.7852"
-         id="tspan90">amplifier</tspan></text>
+         id="tspan42">amplifier</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-95.648822,994.82062)"
@@ -2516,11 +2516,11 @@
        y="0"><tspan
          x="-573.31848"
          y="-1195.7852"
-         id="tspan91">Full instrumentation
+         id="tspan43">Full instrumentation
 </tspan><tspan
          x="-496.88647"
          y="-1175.7852"
-         id="tspan92">Amplifier</tspan></text>
+         id="tspan44">Amplifier</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,15.000214,1135.3848)"
@@ -2530,11 +2530,11 @@
        y="0"><tspan
          x="-596.82245"
          y="-1195.7852"
-         id="tspan93">Comparator with open-
+         id="tspan45">Comparator with open-
 </tspan><tspan
          x="-524.43848"
          y="-1175.7852"
-         id="tspan94">-drain output</tspan></text>
+         id="tspan46">-drain output</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2555,8 +2555,8 @@
        y="0"><tspan
          x="-404.28707"
          y="-1186.6759"
-         id="tspan96"><tspan
+         id="tspan48"><tspan
            style="fill:#000000"
-           id="tspan95">R1</tspan></tspan></text>
+           id="tspan47">R1</tspan></tspan></text>
   </g>
 </svg>
